@@ -1,4 +1,4 @@
-# Recommender System - Collaborative Filtering (in-memory)
+# Personal Project PBO, Lecture Mrs. Maya
 
 Système de recommandation basé sur le filtrage collaboratif (user-based) avec stockage en mémoire.
 
