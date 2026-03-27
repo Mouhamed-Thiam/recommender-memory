@@ -1,11 +1,11 @@
 # Personal Project PBO, Lecture Mrs. Maya
 
-Système de recommandation basé sur le filtrage collaboratif (user-based) avec stockage en mémoire.
+Recommendation system based on collaborative (user-based) filtering with in-memory storage.
 
-## Fonctionnalités
-- Gestion des utilisateurs, films et notes
-- Calcul de similarité cosinus
-- Recommandations personnalisées
+## Features
+- User management, movies and notes
+- cosine similarity calculation
+- Personalized recommendations
 
 ## Installation
 ```bash
